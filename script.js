@@ -18,7 +18,7 @@ const noMessages = [
     "Làm ơn??? 💔",
     "Đừng làm thế với tớ...",
     "Cơ hội cuối cùng! 😭",
-    "Dù sao anh cũng không bắt được cô 😜"
+    "Dù sao tớ cũng không bắt được cậu 😜"
 ]
 
 const yesTeasePokes = [
